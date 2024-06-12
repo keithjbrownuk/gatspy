@@ -9,7 +9,7 @@ module.exports = {
   plugins: [{
     resolve: 'gatsby-source-contentful',
     options: {
-      "accessToken": "CFPAT-kWl6TpGpv-SwKywKZM03K7VT5f4NRmyD9y4-KlmcD70",
+      "accessToken": "",
       "spaceId": ""
     }
   }, "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-postcss", "gatsby-plugin-google-gtag", {
